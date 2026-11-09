@@ -233,3 +233,5 @@ html[data-wds-input="keyboard"] :is(.wds-product,.wds-action,.wds-row-action) { 
   font-size: var(--typography-body1-fontSize) !important;
   line-height: var(--typography-body1-lineHeight) !important;
 }
+
+.wds-manage-option .wds-manage-graphic { width: var(--primitive-40); height: var(--primitive-40); flex-shrink: 0; }
