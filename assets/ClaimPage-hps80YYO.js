@@ -1,0 +1,1 @@
+import{i as e,n as t}from"./rolldown-runtime-CNOWq4Kh.js";import{Ct as n,St as r}from"./index-BVaqCp8L.js";import{n as i,t as a}from"./ClaimWizard-BgH6DEjW.js";function o(){return(0,s.jsx)(a,{kind:`EW`})}var s;t((()=>{n(),i(),s=e(r())}))();export{o as default};
